@@ -1,6 +1,6 @@
 {
   "name": "smart-memory",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "A SillyTavern extension providing a multi-tier memory and narrative context system for AI roleplay. Tracks character facts, relationship history, per-character knowledge and secrets, entity state, scene history, story arcs, and rolling summaries - extracted automatically so your AI stays coherent no",
   "main": "src/index.js",
   "scripts": {
